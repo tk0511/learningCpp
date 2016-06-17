@@ -4,6 +4,8 @@
 
 int main() {
 	using namespace std;
+	string str;
 
 
+	system("pause");
 }
